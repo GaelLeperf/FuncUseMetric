@@ -36,7 +36,7 @@ FuncUse(data, epoch = 2, SampleFrequency = 50, range = 50, amplitude = 15)
 
 - **data**: Numeric vector containing forearm orientation data (in degrees) relative to the vertical. Orientation is typically computed from accelerometer signals as:
   
-  \[ \alpha(t) = \arccos\left( \frac{a_y(t)}{svm(t)} \right) \]
+  α(t) = arccos(ay(t) / svm(t))
 
 - **epoch**: Duration of the analysis window in seconds (default: 2).
 - **SampleFrequency**: Sampling frequency of the signal in Hz (default: 50).
