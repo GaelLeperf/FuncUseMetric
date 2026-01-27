@@ -88,14 +88,21 @@ FU_ratio <- FuncUseRatio(FU_paretic, FU_non_paretic)
 ## Authors
 
 Gael Le Perf
+
 EuroMov Digital Health in Motion, Univ. Montpellier, IMT Mines Ales, Montpellier, France
+
 Paul Coste-Floret Hospital, Lamalou-les-bains, France
 
+
 Karima Bakthi
+
 EuroMov Digital Health in Motion, Univ. Montpellier, IMT Mines Ales, Montpellier, France
+
 University Hospital Center of Montpellier, France
 
+
 Denis Mottet
+
 EuroMov Digital Health in Motion, Univ. Montpellier, IMT Mines Ales, Montpellier, France
 
 ---
